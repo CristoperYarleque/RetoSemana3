@@ -90,7 +90,7 @@ main{
 
 article{
     flex: 3;
-    margin: 5px 5px 5px 10px;
+    margin: 5px 10px 5px 10px;
 }
 
 article h2{
@@ -98,7 +98,7 @@ article h2{
     color: rgba(94, 47, 9, 0.815);
     background: rgba(0, 128, 0, 0.63);
     border-radius: 10px;
-    margin: 0px 5px 5px 0px;
+    margin: 0px 0px 5px 0px;
 }
 
 .seccion1 ,
@@ -106,7 +106,7 @@ article h2{
     display: flex;
     padding: 10px;
     background: rgba(165, 42, 42, 0.459);
-    margin: 5px 5px 5px 0px;
+    margin: 5px 0px 5px 0px;
     border-radius: 10px;
 }
 
