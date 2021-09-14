@@ -130,6 +130,11 @@ article h2{
     main{
         flex-direction: column;
     }
+    .seccion1 img,
+    .seccion2 img{
+        width: 20vw;
+}
+
 }
 
 aside{
